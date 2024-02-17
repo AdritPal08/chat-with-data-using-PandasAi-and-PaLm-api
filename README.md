@@ -4,7 +4,7 @@ This is an end-to-end project that uses Pandas AI, GooglePalm, Python, and Strea
 
 ## App Demo
 * App Name : ChitChart Buddy
-* App Link :[Click Here](https://notes-craft-pro.streamlit.app/)
+* App Link :[Click Here](https://chitchartbuddy.streamlit.app/)
 
 ## Key Features: 
 1.	Upload multiple Excel data files and access them in one place. 
