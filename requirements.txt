@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+logger
+pandasai
+pandas
+streamlit_option_menu
+pygwalker
+streamlit_lottie
+-e .
